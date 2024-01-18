@@ -1,0 +1,19 @@
+{
+  "name": "mvc-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/mvc.js",
+  "bin": {
+    "mvc-starter": "bin/mvc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abdulsalam Adams",
+  "license": "ISC",
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
