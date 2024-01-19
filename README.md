@@ -1,5 +1,7 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://www.npmjs.com/package/mvc-starter)
 
+This is a starter file package for backend development with expressjs using mvc architectural pattern something just like the "create-react-app".
+
 ## Installation
 
 ```
@@ -45,5 +47,9 @@ $ mvc-starter
          |_____package.json
 ```
 
-Let's keep it simple for now, if you find and issues or you want to contribute. Please feel free to do so.
+###Important Settings
+1) create a .env file, to configure your mongodb.
+
+Let's keep it simple for now, if you find any issue you can state it in the issues tab of the repo. 
+
 More updates are coming!
