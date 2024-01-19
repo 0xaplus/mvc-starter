@@ -2,10 +2,9 @@
 
 const path = require("path");
 
-const templateDir = path.resolve('./templates');
+const templateDir = path.join(__dirname, '../templates');
 const destinationDir = process.cwd();
 const lastDirectoryName = path.basename(destinationDir);
-console.log(lastDirectoryName)
 const ncp = require('ncp').ncp;
 
 // Copy the entire template directory to the destination
