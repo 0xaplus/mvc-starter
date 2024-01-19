@@ -1,6 +1,6 @@
 {
   "name": "mvc-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Starter files for backend development with expressjs using mvc architectural pattern",
   "main": "bin/mvc.js",
   "bin": {
