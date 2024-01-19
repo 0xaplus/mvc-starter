@@ -47,7 +47,7 @@ $ mvc-starter
          |_____package.json
 ```
 
-###Important Settings
+### Important Settings
 1) create a .env file, to configure your mongodb.
 
 Let's keep it simple for now, if you find any issue you can state it in the issues tab of the repo. 
